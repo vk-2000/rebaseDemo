@@ -1,2 +1,4 @@
-var nim = 100;
-added line
+var num = 100;
+hello
+another edit
+ash
