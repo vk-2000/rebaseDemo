@@ -1,1 +1,1 @@
-change
+var nim = 100;
